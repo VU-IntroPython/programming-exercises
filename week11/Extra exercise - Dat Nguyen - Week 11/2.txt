@@ -1,0 +1,2 @@
+Train-Spam
+Phishing is basically a scam that uses fake emails to try and steal your personal information. The fake emails often pretend to be sent by respected companies like banks, internet service providers, credit card companies, etc. They often ask for things like usernames, passwords, account numbers, etc. If you click on the link in the email it will take you to a fake website or product that looks exactly like what it claims to be.
