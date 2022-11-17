@@ -1,0 +1,2 @@
+Train-Ham
+SMiShing is a kind of phishing that takes place over text messages. The criminal sends you a text message pretending to be from a company like your bank asking for account information or they might send you links to websites where they can steal it. A lot of times the criminals will pretend to be with Google or Microsoft so it's even harder to discern whether or not the message is fake.

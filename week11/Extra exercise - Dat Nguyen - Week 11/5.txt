@@ -1,0 +1,2 @@
+Classify
+Another example of an increasing phishing problem is fake Apple iCloud status emails. If you've ever used an iPhone or another Apple product, then you may have received a fake iCloud email asking for your password...which is scary, but the real problem with these emails is that they often contain links to malicious websites. Whenever you get an email from any company asking for personal information, make sure to contact them personally before responding.
